@@ -1,5 +1,9 @@
 # Books api
 
+##Requirements 
+•[nodejs](http://node.org/) with [NPM](https://www.npmjs.org/)
+and [Bower](http://bower.io/#install-bower) 
+
 ## Demo live
 http://bbelhadi.github.io/books-api/dist/index.html
 
