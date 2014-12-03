@@ -1,0 +1,27 @@
+.CartSummary{
+  border: 1px dashed #f00;
+}
+
+.cardSum{
+    background-color:#D2D7D3;
+    padding:20px;
+}
+
+.cardSum h2 {
+    color:#6C7A89;
+}
+
+.cardSum p span{
+display:inline-block;
+line-height: 1.2em;
+background-color:#6C7A89;
+color:#FFF;
+padding: 5px 8px;
+}
+
+.cardSum p span.best, .cardSum p span.best span{
+background-color:#F4D03F!important;
+color:#000;
+}
+
+.cardSum p span.best .lineThrough span {text-decoration:line-through;padding: 0;}
