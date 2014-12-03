@@ -1,5 +1,5 @@
 # Books api
-My first ReactJs api :)
+My first [ReactJs](http://facebook.github.io/react/) api :)
 
 ##Requirements 
 •[nodejs](http://node.org/) with [NPM](https://www.npmjs.org/)
