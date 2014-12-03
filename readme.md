@@ -16,5 +16,5 @@ $ grunt serve
 
 ## Launch test
 ```bash
-grunt test
+$ grunt test
 ```
